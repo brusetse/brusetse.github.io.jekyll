@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Jekyll安装教程"
-date:   2016-01-21 16:17:49
+date:   2017-01-21 16:17:49
 categories: Jekyll
-tags: Jekyll
+tags: 
 ---
 下载安装windows最新版ruby：http://rubyinstaller.org/downloads/  
 勾选上文件关联和环境变量  

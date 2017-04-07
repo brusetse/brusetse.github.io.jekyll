@@ -36,6 +36,7 @@ gem install jekyll-sitemap如果提示你编码格式错误时，说明你安装
 卸载安装最新版即可
 
 ## git
+git clone https://github.com/brusetse/brusetse.github.io.git 将你创建的仓库克隆下来  
 git add . 会递归地添加当前工作目录中的所有文件  
 git commit -m '1' 提交已经被add进来的改动到本地库  
 git push 将本地库中的最新信息发送给远程库

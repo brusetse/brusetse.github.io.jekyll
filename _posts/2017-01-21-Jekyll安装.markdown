@@ -33,4 +33,4 @@ gem install jekyll-sitemap
 再执行：jekyll serve 成功！服务器已启动，可以访问localhost:4000了  
 
 gem install jekyll-sitemap如果提示你编码格式错误时，说明你安装的ruby版本不是最新的  
-卸载安装最新版即可
+卸载安装最新版即可aaaaaaaaaaaaaaaaa
